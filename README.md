@@ -1,4 +1,4 @@
-# Do A Barrel Roll, But In Real Life
+# Offbeat VR - Senior Comprehensive for Joshua Pulido
+Hello, welcome to Offbeat VR, my senior comprehensive project, currently completed for the Fall 2022 Semester. Still plenty more to go for the project, but it is in a good prototype state right now :) This repository contains the paper that accompanies the project, which talks about the inspiration, development process and results. Click here to quickly access the PDF.
 
-## Comps Proposal
-The current draft of my comps proposal for this project, written in LaTex, can be found under the comp_paper folder, in the main.tex file. I've also provided a compiled pdf version, under final_draft_5-5.pdf.
+Offbeat is a rhythm game where, instead of hitting the notes, you avoid them. This creates a bullet-hell style game that is difficult, but fun and immersive for players. For more information on the game and how to get it running on the Meta Quest 2 (although not in a streamlined way at the moment), check out the repo with the actual game [here](https://github.com/jacup101/droneVR).
